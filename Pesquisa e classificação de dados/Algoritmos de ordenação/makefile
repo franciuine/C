@@ -8,3 +8,4 @@ clear:
 	rm exec
 	rm atividade01.o
 	rm main.o
+
